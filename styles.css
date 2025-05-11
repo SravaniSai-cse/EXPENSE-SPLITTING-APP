@@ -1,0 +1,16 @@
+.dashboard-buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+.dashboard-buttons button {
+  background-color: #6c63ff;
+  padding: 0.6rem 1.2rem;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: 0.3s;
+}
+.dashboard-buttons button:hover {
+  background-color: #5146d4;
+}
